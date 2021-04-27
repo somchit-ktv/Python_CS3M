@@ -3,7 +3,6 @@ a = 1
 a1 = 2
 a2 = 3
 
-
 # non-primitive variable : list  / ແມ່ນປະເພດຂໍ້ມູນທີ່ສາມາດມີຫຼາຍຄ່າໃນໂຕແປດຽວ ເຊັ່ນ Array, List, Set, Tuple ເປັນຕົ້ນ
 number = [] #list empty
 number = [1,2,3,4,5]
