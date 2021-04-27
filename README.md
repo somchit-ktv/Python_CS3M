@@ -1,5 +1,5 @@
 # Python_CS3M
-ໂຄ້ດບົດຮຽນປະກອບໃນວິຊາ Python programming
+ໂຄ້ດບົດຮຽນປະກອບໃນວິຊາ Python programming ໃນການຮຽນແບບອອນລາຍ
 
 ## ການໃຊ້ງານ List
 - [ນິຍາມຂອງ List](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Definition.py)
@@ -13,3 +13,4 @@
 - [ການຄັດລອກຂໍ້ມູນ](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Copy_list.py)
 - [ການລວມຂໍ້ມູນສະມາຊິກ](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Combine_list.py)
 - [ການນັບຈຳນວນຂອງສະມາຊິກທີ່ມີຄ່າຊ້ຳ](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Check_list.py)
+### ບົດເຝີກຫັດຕົວຢ່າງ
