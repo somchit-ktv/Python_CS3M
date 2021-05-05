@@ -19,6 +19,7 @@
 - [3. ຊອກເລກຄູ່, ເລກຄິກ](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Assignment_3.py)
 - [4. ຈັດລຽນລຳດັບຊື່](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Assignment_4.py)
 - [5. ຫາຄ່າເລກຍົກກຳລັງ](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Assignment_5.py)
+- [6. ການຈັບຄູ່ສີນຄ້າ ແລະ ລາຄາ](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Assignment_6.py)
 
 
 ## ຂໍ້ມູນອ້າງອິງ ແລະ ແຫຼ່ງທີ່ມາຂອງບົດຮຽນ
