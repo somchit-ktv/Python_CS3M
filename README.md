@@ -17,7 +17,7 @@
 - [1. ຈັດລຽນລຳດັບຕົວເລກ](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Assignment_1.py)
 - [2. ຊອກຄ່າຫຼາຍສຸດ,ໜ້ອຍສຸດແລະຜົນລວມຕົວເລກ](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Assignment_2.py)
 - [3. ຊອກເລກຄູ່, ເລກຄິກ](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Assignment_3.py)
-- [4. ຈັດລຽນລຳດັບຊື່](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Assignment_3.py)
+- [4. ຈັດລຽນລຳດັບຊື່](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Assignment_4.py)
 
 
 ## ຂໍ້ມູນອ້າງອິງ ແລະ ແຫຼ່ງທີ່ມາຂອງບົດຮຽນ
