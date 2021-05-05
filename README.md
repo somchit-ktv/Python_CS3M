@@ -14,4 +14,4 @@
 - [ການລວມຂໍ້ມູນສະມາຊິກ](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Combine_list.py)
 - [ການນັບຈຳນວນຂອງສະມາຊິກທີ່ມີຄ່າຊ້ຳ](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Count_list.py)
 ### ບົດເຝີກຫັດຕົວຢ່າງ
-- [ລຽນລຳດັບຕົວເລກ](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Count_list.py)
+- [1. ລຽນລຳດັບຕົວເລກ](https://github.com/somchit-ktv/Python_CS3M/blob/main/List/Assignment_1.py)
