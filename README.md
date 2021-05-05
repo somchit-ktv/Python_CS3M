@@ -20,6 +20,6 @@
 
 
 ### ຂໍ້ມູນອ້າງອິງ ແລະ ແຫຼ່ງທີ່ມາຂອງບົດຮຽນ
-https://github.com/kongruksiamza/PythonBeginner
-https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w
-https://www.w3schools.com/python/
+- [Github](https://github.com/kongruksiamza/PythonBeginner)
+- [Youtube](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w)
+- [w3school](https://www.w3schools.com/python)
