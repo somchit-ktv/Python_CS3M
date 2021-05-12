@@ -27,11 +27,22 @@
 - [ການແກ້ໄຂຂໍ້ມູນ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Tuple/Edit_tuple.py)
 - [ການກວດສອບຂໍ້ມູນ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Tuple/Check_tuple.py)
 - [ການສະແດງຜົນແບບວົນຊ້ຳ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Tuple/Loop_tuple.py)
-- [ການນັບຈຳນວນຂອງສະມາຊິກໃນ List](https://github.com/somchit-ktv/Python_CS3M/blob/main/Tuple/Length_tuple.py)
+- [ການນັບຈຳນວນຂອງສະມາຊິກໃນ Tuple](https://github.com/somchit-ktv/Python_CS3M/blob/main/Tuple/Length_tuple.py)
 - [ການລວມຂໍ້ມູນສະມາຊິກ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Tuple/Join_tuple.py)
 - [ການນັບຈຳນວນຂອງສະມາຊິກທີ່ມີຄ່າຊ້ຳ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Tuple/Count_tuple.py)
 ### ບົດເຝີກຫັດຕົວຢ່າງ
 - [7. ໂອນຄ່າ tuple ໄປໃສ່ໂຕແປ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Tuple/Assignment_7.py)
+## ການໃຊ້ງານ Set
+- [ນິຍາມຂອງ Set](https://github.com/somchit-ktv/Python_CS3M/blob/main/Set/Definition.py)
+- [ການກວດສອບຂໍ້ມູນ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Set/Check_set.py)
+- [ການເພີ່ມຂໍ້ມູນ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Set/Add_set.py)
+- [ການລົບຂໍ້ມູນ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Set/Remove_set.py)
+- [ການສະແດງຜົນແບບວົນຊ້ຳ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Set/Loop_set.py)
+- [ການນັບຈຳນວນຂອງສະມາຊິກໃນ Set](https://github.com/somchit-ktv/Python_CS3M/blob/main/Set/Check_length.py)
+- [ການລວມຂໍ້ມູນສະມາຊິກ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Set/Join_set.py)
+- [ການຄັດລອກຂໍ້ມູນ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Set/Copy_set.py)
+- [Set ຍ່ອຍ ແລະ Set ຫຼັກ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Set/Sub_sup_set.py)
+- [FrozenSet](https://github.com/somchit-ktv/Python_CS3M/blob/main/Set/Frozen_set.py)
 
 ## ຂໍ້ມູນອ້າງອິງ ແລະ ແຫຼ່ງທີ່ມາຂອງບົດຮຽນ
 - [Github](https://github.com/kongruksiamza/PythonBeginner)
