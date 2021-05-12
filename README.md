@@ -43,6 +43,14 @@
 - [ການຄັດລອກຂໍ້ມູນ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Set/Copy_set.py)
 - [Set ຍ່ອຍ ແລະ Set ຫຼັກ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Set/Sub_sup_set.py)
 - [FrozenSet](https://github.com/somchit-ktv/Python_CS3M/blob/main/Set/Frozen_set.py)
+## ການໃຊ້ງານ Dictionary
+- [ນິຍາມຂອງ Dictionary](https://github.com/somchit-ktv/Python_CS3M/blob/main/Dict/Diffinition.py)
+- [ການແກ້ໄຂຂໍ້ມູນ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Dict/Edit_dict.py)
+- [ການເພີ່ມຂໍ້ມູນ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Dict/Add_dict.py)
+- [ການລົບຂໍ້ມູນ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Dict/Remove_dict.py)
+- [ການສະແດງຜົນແບບວົນຊ້ຳ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Dict/Loop_dict.py)
+- [ການຄັດລອກຂໍ້ມູນ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Dict/Copy_dict.py)
+- [Dictionary ຍ່ອຍ](https://github.com/somchit-ktv/Python_CS3M/blob/main/Dict/Sub_dict.py)
 
 ## ຂໍ້ມູນອ້າງອິງ ແລະ ແຫຼ່ງທີ່ມາຂອງບົດຮຽນ
 - [Github](https://github.com/kongruksiamza/PythonBeginner)
